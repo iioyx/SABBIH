@@ -1,0 +1,29 @@
+:root {
+    --MainColor: #2B9CA1;
+}
+
+body{
+    background-color: var(--MainColor);
+    font-family: "Almarai", sans-serif;
+}
+
+.btn {
+    padding: 30px 40px;
+}
+
+.item-sp1 {
+    padding: 31px;
+}
+.item-sp2 {
+    padding: 25px;
+}
+.item {
+    padding: 40px;
+}
+
+.icon {
+    cursor: pointer;
+    padding: 8px;
+    right: 5px;
+    top: 5px;
+}
